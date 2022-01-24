@@ -1,2 +1,2 @@
 # -requisicoes-e-assincronismo
-Aulas JSON
+Aulas JavaScript
